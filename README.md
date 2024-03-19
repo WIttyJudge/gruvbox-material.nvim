@@ -1,6 +1,8 @@
-# Gruvbox Material Scheme
+# Deprecated!
 
-THIS IS IN DEVELOPEMENT FOR NOW
+This repo is being kept for historical purposes and may be deleted in the future. Use https://github.com/f4z3r/gruvbox-material.nvim instead.
+
+# Gruvbox Material Scheme
 
 A port of [gruvbox-material](https://github.com/sainnhe/gruvbox-material) colorscheme for Neovim written in Lua. Supports both `dark` and `light` themes, based on configured background.
 
